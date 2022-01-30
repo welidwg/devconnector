@@ -1,0 +1,6 @@
+export const SET_ALERT = "SET_ALERT";
+export const REMOVE_ALERT = "REMOVE_ALERT";
+export const REGISTER_SUCCESS = "REGISTER_SUCCESS";
+export const REGISTER_FAILED = "REGISTER_FAILED";
+export const USER_EXIST = "USER_EXIST";
+export const USER_NOTEXIST = "USER_NOTEXIST";
